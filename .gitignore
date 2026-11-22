@@ -147,3 +147,9 @@ ipython_config.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# added 2026-11-22: deps, builds and secrets
+node_modules/
+.next/
+*.pem
+*.key
